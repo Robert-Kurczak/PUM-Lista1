@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhysicsQuiz</string>
+    <string name="question">Question</string>
+    <string name="true_button_label">True</string>
+    <string name="false_button_label">False</string>
+    <string name="cheat_button_label">Cheat</string>
+    <string name="check_online_button_label">Check Online</string>
+    <string name="result">Result</string>
+</resources>
